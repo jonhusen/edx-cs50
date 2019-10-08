@@ -1,0 +1,5 @@
+---
+win_domain_user:
+  - name: john.doe
+  - name: rasin.bacon
+  
